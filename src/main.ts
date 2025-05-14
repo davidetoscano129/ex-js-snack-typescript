@@ -1,3 +1,4 @@
+// Snack 1
 let dato: unknown;
 
 if (typeof dato === "string") {
